@@ -4,6 +4,8 @@ public class Loader{
         System.out.println("Second string");
         
         double o = 2.5;
+
+        System.out.println("testing push");
     }
 
 }
